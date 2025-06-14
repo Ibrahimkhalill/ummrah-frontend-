@@ -1,2 +1,1 @@
-"# MedWorldAppReactNative" 
 # ummrah-frontend-
